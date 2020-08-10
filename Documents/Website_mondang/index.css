@@ -1,0 +1,14 @@
+.header{
+  text-align: right;
+  padding: 5px;
+  margin-right: 5px;
+}
+.header a{
+  padding: 5px;
+}
+h1{
+  color: blue;
+}
+.name{
+  margin-left: 20px;
+}
